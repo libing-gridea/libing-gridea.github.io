@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wlb5396340.github.io</id>
+    <id>https://libing-gridea.github.io</id>
     <title>Libing&apos;s Notes</title>
-    <updated>2023-02-22T07:13:59.655Z</updated>
+    <updated>2023-02-22T07:39:56.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wlb5396340.github.io"/>
-    <link rel="self" href="https://wlb5396340.github.io/atom.xml"/>
+    <link rel="alternate" href="https://libing-gridea.github.io"/>
+    <link rel="self" href="https://libing-gridea.github.io/atom.xml"/>
     <subtitle>The only true method of action in this world is to be in it, not of it.</subtitle>
-    <logo>https://wlb5396340.github.io/images/avatar.png</logo>
-    <icon>https://wlb5396340.github.io/favicon.ico</icon>
+    <logo>https://libing-gridea.github.io/images/avatar.png</logo>
+    <icon>https://libing-gridea.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Libing&apos;s Notes</rights>
 </feed>
